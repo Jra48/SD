@@ -1,0 +1,7 @@
+Para compilar tenemos que hacer los siguientes comandos:
+
+Terminal 1. rmiregistry -J-Djava.security.policy=registrar.policy
+Terminal 2. java -Djava.security.policy=registrar.policy Server 9999 <ip Controller> 9091
+
+Terminal 3. java -Djava.security.policy=registrar.policy Controller 9091 <ip Servidor>
+Terminal 4. java -Djava.security.policy=registrar.policy Sensor <ip Controlller> <.txt>
