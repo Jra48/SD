@@ -1,0 +1,6 @@
+1. Seguimos las guiadas con nuestro proyecto
+2. Activamos la url para usar los métodos en la nube.
+3. Si no tenemos metido la url meterla en el visual studio.
+4. Activar tomcat y comprobar que la url funciona correctamente(insisto ver guiadas si no iras perdido)
+5. Abrir el .exe del visual studio e intentar meter la sonda del tomcat activado(para local deberemos meter la ip_propia)
+6. En general, abrir en los clientes un tomcat y meteremos en el servidor las ip´s de los clientes y deberían de funcionar.
