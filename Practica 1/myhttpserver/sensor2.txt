@@ -1,0 +1,4 @@
+id=0
+fecha=19/12/2285 04:42:29
+tipo=humedad
+valor=91

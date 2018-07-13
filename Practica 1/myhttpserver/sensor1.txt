@@ -1,0 +1,4 @@
+id=0
+fecha=23/5/3338 06:42:36
+tipo=humedad
+valor=68

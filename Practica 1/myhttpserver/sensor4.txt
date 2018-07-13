@@ -1,0 +1,4 @@
+id=0
+fecha=4/1/2053 02:46:41
+tipo=temperatura
+valor=-10

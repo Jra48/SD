@@ -1,0 +1,4 @@
+id=0
+fecha=26/3/2459 01:55:33
+tipo=temperatura
+valor=4
